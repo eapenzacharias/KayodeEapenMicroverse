@@ -1,0 +1,9 @@
+#image{
+  max-width: 80%;
+  display: block;
+  height: auto;
+  margin:auto;
+}
+.heading{
+  text-align: center;
+}
